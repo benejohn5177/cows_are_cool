@@ -5,3 +5,8 @@ Hello! This is a test. I think cows have pretty eyes.
 Not my favorite, but I'll take cows over a horse.
 
 _This text is in italics~~_
+
+- Dogs
+- Cats
+- Seals
+- Chimps
